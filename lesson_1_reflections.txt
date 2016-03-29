@@ -1,0 +1,16 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+  Difficult to pass through each and every line.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+  Passing through the changes and understanding the code flow.
+
+xxx
+
+How can you use the commands git log and git diff to view the history of files?
+  Both are helpfull.
+  
+How might using version control make you more confident to make changes that could break something?
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
