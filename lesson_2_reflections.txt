@@ -1,0 +1,15 @@
+
+How can you use the staging area to make sure you have one commit per logical change?
+  Using 'git diff -staged' command.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+  When new experimental changes are done, it can be incorporatted to a new branch.
+
+How do the diagrams help you visualize the branch structure?
+  East to visualize the changes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  To understand how merge works.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+  Its is good so that no need to go through all changes which are seperate.
